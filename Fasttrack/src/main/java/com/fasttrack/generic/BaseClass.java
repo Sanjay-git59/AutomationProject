@@ -23,8 +23,8 @@ public class BaseClass {
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
-		String url = f.getPropertyData("url");
-		driver.get(url);
+		//String url = f.getPropertyData("url");
+//		driver.get("http://192.168.110.128:8080/crm/HomePage.do");
 	}
 
 	@BeforeMethod

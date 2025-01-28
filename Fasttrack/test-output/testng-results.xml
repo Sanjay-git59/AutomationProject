@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-24T10:51:55 IST" name="Default suite" finished-at="2025-01-24T10:52:05 IST" duration-ms="10024">
+  <suite started-at="2025-01-27T21:17:56 IST" name="Default suite" finished-at="2025-01-27T21:18:07 IST" duration-ms="11382">
     <groups>
     </groups>
-    <test started-at="2025-01-24T10:51:55 IST" name="Default test" finished-at="2025-01-24T10:52:05 IST" duration-ms="10024">
-      <class name="com.fasttrack.testscript.CampaignModule">
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.fasttrack.testscript.CampaignModule@793f29ff]" started-at="2025-01-24T10:51:55 IST" name="openBrowser" finished-at="2025-01-24T10:51:58 IST" duration-ms="3155" status="PASS">
+    <test started-at="2025-01-27T21:17:56 IST" name="Default test" finished-at="2025-01-27T21:18:07 IST" duration-ms="11382">
+      <class name="com.nagapriya.testscript.ProductModule">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.nagapriya.testscript.ProductModule@55b0dcab]" started-at="2025-01-27T21:17:56 IST" name="openBrowser" finished-at="2025-01-27T21:17:59 IST" duration-ms="3057" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method is-config="true" signature="login()[pri:0, instance:com.fasttrack.testscript.CampaignModule@793f29ff]" started-at="2025-01-24T10:51:58 IST" name="login" finished-at="2025-01-24T10:51:59 IST" duration-ms="909" status="PASS">
+        <test-method is-config="true" signature="login()[pri:0, instance:com.nagapriya.testscript.ProductModule@55b0dcab]" started-at="2025-01-27T21:17:59 IST" name="login" finished-at="2025-01-27T21:18:00 IST" duration-ms="744" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="createAndDeleteCampaign()[pri:0, instance:com.fasttrack.testscript.CampaignModule@793f29ff]" started-at="2025-01-24T10:51:59 IST" name="createAndDeleteCampaign" finished-at="2025-01-24T10:52:04 IST" duration-ms="4759" status="PASS">
+        <test-method signature="createAndDeleteProducts()[pri:0, instance:com.nagapriya.testscript.ProductModule@55b0dcab]" started-at="2025-01-27T21:18:00 IST" name="createAndDeleteProducts" finished-at="2025-01-27T21:18:06 IST" duration-ms="5932" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createAndDeleteCampaign -->
-        <test-method is-config="true" signature="logout()[pri:0, instance:com.fasttrack.testscript.CampaignModule@793f29ff]" started-at="2025-01-24T10:52:04 IST" name="logout" finished-at="2025-01-24T10:52:05 IST" duration-ms="737" status="PASS">
+        </test-method> <!-- createAndDeleteProducts -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.nagapriya.testscript.ProductModule@55b0dcab]" started-at="2025-01-27T21:18:06 IST" name="logout" finished-at="2025-01-27T21:18:07 IST" duration-ms="1037" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.fasttrack.testscript.CampaignModule@793f29ff]" started-at="2025-01-24T10:52:05 IST" name="closeBrowser" finished-at="2025-01-24T10:52:05 IST" duration-ms="327" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.nagapriya.testscript.ProductModule@55b0dcab]" started-at="2025-01-27T21:18:07 IST" name="closeBrowser" finished-at="2025-01-27T21:18:07 IST" duration-ms="527" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-      </class> <!-- com.fasttrack.testscript.CampaignModule -->
+      </class> <!-- com.nagapriya.testscript.ProductModule -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
